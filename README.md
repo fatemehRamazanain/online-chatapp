@@ -37,14 +37,14 @@ The Online Chat Application is a simple yet powerful chat platform that enables 
    ```
 
 ## Usage
-
-1. Run the `main.py` file to start the client application.
-2. Register a new user or log in with an existing account.
-3. The chat page will be displayed, showing a list of online users.
-4. Select a user from the list to start a conversation.
-5. Type your message in the input field and click "Send" to send it.
-6. The chat history will be displayed in the chat window.
-7. To logout, click the "Logout" button.
+1. Run the `server.py` file.
+2. Run the `main.py` file to start the client application.
+3. Register a new user or log in with an existing account.
+4. The chat page will be displayed, showing a list of online users.
+5. Select a user from the list to start a conversation.
+6. Type your message in the input field and click "Send" to send it.
+7. The chat history will be displayed in the chat window.
+8. To logout, click the "Logout" button.
 
 ## Project Structure
 
