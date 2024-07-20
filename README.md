@@ -19,7 +19,7 @@ The Online Chat Application is a simple yet powerful chat platform that enables 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/online-chat-app.git
+   git clone https://github.com/fatemehRamazanain/online-chatapp.git
    ```
 2. Install the required dependencies:
    ```
